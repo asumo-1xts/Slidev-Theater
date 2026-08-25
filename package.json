@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "slidev build",
-    "dev": "slidev",
-    "export": "slidev export"
+    "build": "slidev build 1.makepedals01/slides.md",
+    "dev": "slidev 1.makepedals01/slides.md",
+    "export": "slidev export 1.makepedals01/slides.md"
   },
   "dependencies": {
     "@slidev/cli": "^52.19.1",
