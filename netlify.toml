@@ -1,0 +1,6 @@
+[build]
+publish = '1.makepedals01/dist'
+command = 'corepack enable && yarn install --immutable && yarn slidev build 1.makepedals01/slides.md --base /'
+
+[build.environment]
+NODE_VERSION = '24'
