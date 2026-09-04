@@ -76,19 +76,19 @@ title: 音の道筋
 
 ::left::
 
-## かっこいいね
+## 外観
 
-<br>
+かわいい<br>かっこいい
 
-上から見た普通の写真を貼る
+![Downpour・外](./images/outside.webp)
 
 ::right::
 
-## 中身は…
+## 中身
 
-<br>
+入力 → フットスイッチ → 基板 → フットスイッチ →<br>出力
 
-ばらばらに並べた部品を貼る
+![Downpour・中身](./images/inside.webp)
 
 ---
 
