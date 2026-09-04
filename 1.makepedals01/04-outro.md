@@ -37,7 +37,6 @@ hideInToc: true
 
 ---
 layout: two-cols
-hideInToc: true
 ---
 
 ::left::
