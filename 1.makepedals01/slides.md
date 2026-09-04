@@ -6,8 +6,18 @@ fonts:
   mono: M PLUS 1 Code
 
 theme: default
-background: https://1xtelescope.com/cover02.webp
+background: https://makepedals01.asumo.dev/cover.jpg
 hideInToc: true
+
+seoMeta:
+  ogTitle: エフェクター作ろ概論Ⅰ
+  ogDescription: アナログエフェクターを製作してみよう
+  ogImage: https://makepedals01.asumo.dev/cover.jpg
+  ogUrl: https://makepedals01.asumo.dev/
+  twitterCard: summary_large_image
+  twitterTitle: エフェクター作ろ概論Ⅰ
+  twitterDescription: アナログエフェクターを製作してみよう
+  twitterImage: https://makepedals01.asumo.dev/cover.jpg
 ---
 
 # エフェクター作ろ概論 I
