@@ -16,7 +16,7 @@ hideInToc: true
 
 <br>
 
-### `v2026-08-25` maintained [HERE](https://github.com/asumo-1xts/Slidev-Theater)
+### `v2026-09-05` maintained [HERE](https://github.com/asumo-1xts/Slidev-Theater)
 
 ### by https://asumo.dev/
 
