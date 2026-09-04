@@ -27,7 +27,9 @@ hideInToc: true
 
 ::left::
 
-<div class="text-right">私の人生１作目 →</div>
+<div class="text-right">私の人生１作目 </div>
+
+<br>
 
 # 目次
 
@@ -45,4 +47,12 @@ src: ./01-intro.md
 
 ---
 src: ./02-kiban.md
+---
+
+---
+src: ./03-wiring.md
+---
+
+---
+src: ./04-outro.md
 ---

@@ -5,9 +5,9 @@ hideInToc: true
 
 ::left::
 
-<div class="text-right">私の人生２作目、の基板 →</div>
+<div class="text-right">私の人生２作目、の基板</div>
 
-<br>
+<br><br><br><br><br><br>
 
 # まずは基板から
 
@@ -155,6 +155,9 @@ title: 知っておこう
 <br>
 
 <v-click>
+
+<hr>
+<br>
 
 ### レッツゴー
 
