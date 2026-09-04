@@ -1,16 +1,21 @@
 ---
-layout: image-right
-image: ./images/my_2nd.webp
+layout: two-cols
 hideInToc: true
 ---
 
-<div class="text-right">私の人生２作目 →</div>
+::left::
+
+<div class="text-right">私の人生２作目、の基板 →</div>
 
 <br>
 
 # まずは基板から
 
-<br>
+::right::
+
+<div style="display: flex; justify-content: flex-end;">
+  <img src="./images/my_2nd.webp" width="90%"/>
+</div>
 
 ---
 layout: two-cols

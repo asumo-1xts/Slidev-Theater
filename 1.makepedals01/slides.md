@@ -21,16 +21,23 @@ hideInToc: true
 ### by https://asumo.dev/
 
 ---
-layout: image-right
-image: ./images/my_1st.webp
+layout: two-cols
 hideInToc: true
 ---
+
+::left::
 
 <div class="text-right">私の人生１作目 →</div>
 
 # 目次
 
 <Toc/>
+
+::right::
+
+<div style="display: flex; justify-content: flex-end;">
+  <img src="./images/my_1st.webp" width="90%"/>
+</div>
 
 ---
 src: ./01-intro.md
