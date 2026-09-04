@@ -22,7 +22,7 @@ hideInToc: true
 
 ---
 layout: image-right
-image: ./images/my_1st.jpg
+image: ./images/my_1st.webp
 hideInToc: true
 ---
 
