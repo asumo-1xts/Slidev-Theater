@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./assets/my_2nd.jpg
+image: ./images/my_2nd.jpg
 hideInToc: true
 ---
 
@@ -24,14 +24,14 @@ title: 基板の種類
 古き良き愛すべきもの
 
 <div style="display: flex; align-items: center;">
-	<img src="./assets/univ_design.jpg" width="45%" />
+	<img src="./images/univ_design.jpg" width="45%" />
 </div>
 
 
 いま絶対こんなことできない、若かった…↓
 
 <div style="display: flex; align-items: center;">
-	<img src="./assets/univ_crazy.jpg" width="90%" />
+	<img src="./images/univ_crazy.jpg" width="90%" />
 </div>
 
 ::right::
@@ -41,12 +41,12 @@ title: 基板の種類
 配線パターンが予め敷かれているので、<br>部品を取り付けるだけでよい
 
 <div style="display: flex; align-items: center;">
-	<img src="./assets/PCB_schematic.png" width="90%" />
+	<img src="./images/PCB_schematic.png" width="90%" />
 </div>
 
 <div style="display: flex; align-items: center;">
-	<img src="./assets/PCB_2D.png" width="45%" />
-	<img src="./assets/PCB_3D.png" width="45%" />
+	<img src="./images/PCB_2D.png" width="45%" />
+	<img src="./images/PCB_3D.png" width="45%" />
 </div>
 
 設計・発注の流れについては、<br>エフェクター作ろ概論Ⅱを受講してください
@@ -125,7 +125,7 @@ title: 知っておこう
 
 <br>
 
-<img src="./assets/zofuku.png" width="90%" />
+<img src="./images/zofuku.png" width="90%" />
 
 ::right::
 

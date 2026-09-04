@@ -22,7 +22,7 @@ hideInToc: true
 
 ---
 layout: image-right
-image: ./assets/my_1st.jpg
+image: ./images/my_1st.jpg
 hideInToc: true
 ---
 
