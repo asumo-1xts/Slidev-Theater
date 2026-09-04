@@ -14,7 +14,7 @@ hideInToc: true
 ::right::
 
 <div style="display: flex; justify-content: flex-end;">
-  <img src="./images/my_hardoff.webp" width="90%"/>
+  <img src="/images/my_hardoff.webp" width="90%"/>
 </div>
 
 ---

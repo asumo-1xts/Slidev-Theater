@@ -14,7 +14,7 @@ hideInToc: true
 ::right::
 
 <div style="display: flex; justify-content: flex-end;">
-  <img src="./images/my_tube.webp" width="90%"/>
+  <img src="/images/my_tube.webp" width="90%"/>
 </div>
 
 ---
@@ -62,7 +62,7 @@ layout: two-cols
 ::right::
 
 <div style="display: flex; justify-content: flex-end;">
-  <img src="./images/goodbye.webp" width="100%"/>
+  <img src="/images/goodbye.webp" width="100%"/>
 </div>
 
 <br>

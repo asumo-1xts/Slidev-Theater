@@ -14,7 +14,7 @@ hideInToc: true
 ::right::
 
 <div style="display: flex; justify-content: flex-end;">
-  <img src="./images/my_2nd.webp" width="90%"/>
+  <img src="/images/my_2nd.webp" width="90%"/>
 </div>
 
 ---
@@ -29,14 +29,14 @@ title: 基板の種類
 古き良き愛すべきもの
 
 <div style="display: flex; align-items: center;">
-	<img src="./images/univ_design.webp" width="45%" />
+	<img src="/images/univ_design.webp" width="45%" />
 </div>
 
 
 いま絶対こんなことできない、若かった…↓
 
 <div style="display: flex; align-items: center;">
-	<img src="./images/univ_crazy.webp" width="90%" />
+	<img src="/images/univ_crazy.webp" width="90%" />
 </div>
 
 ::right::
@@ -46,12 +46,12 @@ title: 基板の種類
 配線パターンが予め敷かれているので、<br>部品を取り付けるだけでよい
 
 <div style="display: flex; align-items: center;">
-	<img src="./images/PCB_schematic.webp" width="90%" />
+	<img src="/images/PCB_schematic.webp" width="90%" />
 </div>
 
 <div style="display: flex; align-items: center;">
-	<img src="./images/PCB_2D.webp" width="45%" />
-	<img src="./images/PCB_3D.webp" width="45%" />
+	<img src="/images/PCB_2D.webp" width="45%" />
+	<img src="/images/PCB_3D.webp" width="45%" />
 </div>
 
 設計・発注の流れについては、<br>エフェクター作ろ概論Ⅱを受講してください
@@ -130,7 +130,7 @@ title: 知っておこう
 
 <br>
 
-<img src="./images/zofuku.webp" width="90%" />
+<img src="/images/zofuku.webp" width="90%" />
 
 ::right::
 

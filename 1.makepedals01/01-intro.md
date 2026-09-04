@@ -80,7 +80,7 @@ title: 音の道筋
 
 かわいい<br>かっこいい
 
-![Downpour・外](./images/outside.webp)
+![Downpour・外](/images/outside.webp)
 
 ::right::
 
@@ -88,7 +88,7 @@ title: 音の道筋
 
 入力 → フットスイッチ → 基板 → フットスイッチ →<br>出力
 
-![Downpour・中身](./images/inside.webp)
+![Downpour・中身](/images/inside.webp)
 
 ---
 
