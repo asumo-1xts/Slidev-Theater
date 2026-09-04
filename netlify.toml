@@ -1,6 +1,7 @@
 [build]
 publish = '1.makepedals01/dist'
 command = 'corepack enable && yarn install --immutable && yarn slidev build 1.makepedals01/slides.md --base /'
+ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- 1.makepedals01/"
 
 [build.environment]
 NODE_VERSION = '24'
