@@ -1,21 +1,14 @@
 ---
-layout: two-cols
+layout: image-left
+image: https://makepedals01.netlify.app/images/my_tube.webp
 hideInToc: true
 ---
 
-::left::
-
-<div class="text-right">SDGs 999：ミニケースに真空管を載せよう</div>
+SDGs 999：ミニケースに真空管を載せよう
 
 <br><br><br><br><br><br>
 
-# 音出し、あわよくば完成
-
-::right::
-
-<div style="display: flex; justify-content: flex-end;">
-  <img src="/images/my_tube.webp" width="90%"/>
-</div>
+# 音出し<br>あわよくば完成
 
 ---
 

@@ -1,21 +1,14 @@
 ---
-layout: two-cols
+layout: image-left
+image: https://makepedals01.netlify.app/images/my_2nd.webp
 hideInToc: true
 ---
 
-::left::
-
-<div class="text-right">私の人生２作目、の基板</div>
+◁ 私の人生２作目、の基板
 
 <br><br><br><br><br><br>
 
 # まずは基板から
-
-::right::
-
-<div style="display: flex; justify-content: flex-end;">
-  <img src="/images/my_2nd.webp" width="90%"/>
-</div>
 
 ---
 layout: two-cols
@@ -65,7 +58,10 @@ title: 登場人物紹介
 
 ## 抵抗 🤜🤛
 
-<img src="https://akizukidenshi.com/img/goods/L/127908.jpg" width="30%" />
+<div style="display: flex; align-items: center;">
+	<img src="https://akizukidenshi.com/img/goods/L/127908.jpg" width="30%" />
+	<img src="https://akizukidenshi.com/img/goods/L/118292.jpg" width="30%" />
+</div>
 
 - 単位はオーム \[$\mathrm{Ω}$\]
 - 基板上での表記：`〇〇 R` / `〇〇 k` / `〇〇 M`
@@ -158,9 +154,7 @@ title: 知っておこう
 
 <hr>
 <br>
-
-### レッツゴー
-
-#### 分かんなくなったらいつでも訊いてください
+	
+（必要に応じて、はんだづけの手順をレクチャー）
 
 </v-click>

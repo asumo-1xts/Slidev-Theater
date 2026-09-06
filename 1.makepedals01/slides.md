@@ -31,25 +31,18 @@ seoMeta:
 ### by https://asumo.dev/
 
 ---
-layout: two-cols
+layout: image-left
+image: https://makepedals01.netlify.app/images/my_1st.webp
 hideInToc: true
 ---
 
-::left::
-
-<div class="text-right">私の人生１作目 </div>
+◁ 私の人生１作目
 
 <br>
 
 # 目次
 
 <Toc/>
-
-::right::
-
-<div style="display: flex; justify-content: flex-end;">
-  <img src="/images/my_1st.webp" width="90%"/>
-</div>
 
 ---
 src: ./01-intro.md
