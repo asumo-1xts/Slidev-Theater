@@ -30,6 +30,12 @@ image: https://makepedals01.netlify.app/images/wiring.webp
 
 の順番で進めるとよいです
 
+<br>
+<hr>
+<br>
+
+📝 +9VとGNDの概念について触れる
+
 ---
 layout: image-right
 image: https://makepedals01.netlify.app/images/inside.webp
@@ -49,4 +55,4 @@ image: https://makepedals01.netlify.app/images/inside.webp
 <hr>
 <br>
 
-（必要に応じて、<br>被膜剥き～はんだづけの手順をレクチャー）
+📝 被膜剥き～はんだづけの手順をレクチャー
