@@ -22,7 +22,8 @@ title: 基板の種類
 古き良き愛すべきもの
 
 <div style="display: flex; align-items: center;">
-	<img src="/images/univ_design.webp" width="45%" />
+	<img src="/images/univ_freehand.webp" width="45%" />
+	<img src="/images/univ_diylc.webp" width="45%" />
 </div>
 
 
