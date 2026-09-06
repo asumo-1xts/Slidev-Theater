@@ -30,13 +30,21 @@ seoMeta:
 
 ### by https://asumo.dev/
 
+<br>
+<br>
+<hr>
+<br>
+
+- 本資料は口頭での補足説明を前提として作られています。
+- 本資料そのものによる一切の事象について、当方は責任を負いません。
+
 ---
 layout: image-left
 image: https://makepedals01.netlify.app/images/my_1st.webp
 hideInToc: true
 ---
 
-◁ 私の人生１作目
+◁ 人生１作目
 
 <br>
 
