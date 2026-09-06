@@ -32,7 +32,7 @@ image: https://makepedals01.netlify.app/images/wiring.webp
 
 ---
 layout: image-right
-image: https://makepedals01.netlify.app/images/wiring_sample.webp
+image: https://makepedals01.netlify.app/images/inside.webp
 ---
 
 # ハイセンス配線のコツ
