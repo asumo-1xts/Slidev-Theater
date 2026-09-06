@@ -18,16 +18,15 @@ hideInToc: true
 </div>
 
 ---
-layout: two-cols
+layout: image-right
+image: https://makepedals01.netlify.app/images/wiring.webp
 ---
-
-::left::
 
 # 組み付けの概要
 
 <br>
 
-今回の場合
+今回は
 
 1. 基板、または可変抵抗
 2. LED
@@ -35,17 +34,13 @@ layout: two-cols
 4. フットスイッチ
 5. フォンジャック
 
-::right::
-
-実際の配線の写真
-
-どこからどこへ繋ぐか分かるように
+の順番で取り付けるとよいです
 
 ---
 layout: two-cols
 ---
 
-# ハイセンスな配線のコツ
+# ハイセンスな配線のために
 
 <br>
 
