@@ -48,6 +48,7 @@ image: https://makepedals01.netlify.app/images/inside.webp
 - 配線材をケチらないこと
   - 短い線は少し弛ませる
   - 長い線はケースのフチに沿わせる
+- 必要に応じて結束バンドでまとめる
 
 以上
 

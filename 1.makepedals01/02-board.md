@@ -4,7 +4,7 @@ image: https://makepedals01.netlify.app/images/my_2nd.webp
 hideInToc: true
 ---
 
-◁ 私の人生２作目、の基板
+◁ 人生２作目、の基板
 
 <br><br><br><br><br><br>
 
