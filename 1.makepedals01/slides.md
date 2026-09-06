@@ -56,7 +56,7 @@ src: ./01-intro.md
 ---
 
 ---
-src: ./02-kiban.md
+src: ./02-board.md
 ---
 
 ---

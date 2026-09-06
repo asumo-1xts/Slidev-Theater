@@ -33,7 +33,7 @@ title: 基板の種類
 </div>
 
 
-いま絶対こんなことできない、若かった…↓
+いま絶対こんなことできない
 
 <div style="display: flex; align-items: center;">
 	<img src="/images/univ_crazy.webp" width="90%" />
@@ -161,6 +161,6 @@ title: 知っておこう
 
 ### レッツゴー
 
-#### 分かんなくなったら訊いてください
+#### 分かんなくなったらいつでも訊いてください
 
 </v-click>
