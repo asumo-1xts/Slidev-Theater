@@ -50,8 +50,6 @@ image: https://makepedals01.netlify.app/images/inside.webp
   - 長い線はケースのフチに沿わせる
 - 必要に応じて結束バンドでまとめる
 
-以上
-
 <br>
 <hr>
 <br>
