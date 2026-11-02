@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: https://makepedals01.netlify.app/images/my_tube.webp
+image: https://makepedals01.vercel.app/images/my_tube.webp
 hideInToc: true
 ---
 

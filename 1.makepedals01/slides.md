@@ -6,18 +6,18 @@ fonts:
   mono: M PLUS 1 Code
 
 theme: default
-background: https://makepedals01.netlify.app/cover.jpg
+background: https://makepedals01.vercel.app/cover.jpg
 hideInToc: true
 
 seoMeta:
   ogTitle: エフェクター作ろ概論Ⅰ
   ogDescription: アナログエフェクターを製作してみよう
-  ogImage: https://makepedals01.netlify.app/cover.jpg
-  ogUrl: https://makepedals01.netlify.app/
+  ogImage: https://makepedals01.vercel.app/cover.jpg
+  ogUrl: https://makepedals01.vercel.app/
   twitterCard: summary_large_image
   twitterTitle: エフェクター作ろ概論Ⅰ
   twitterDescription: アナログエフェクターを製作してみよう
-  twitterImage: https://makepedals01.netlify.app/cover.jpg
+  twitterImage: https://makepedals01.vercel.app/cover.jpg
 ---
 
 # エフェクター作ろ概論 I
@@ -40,7 +40,7 @@ seoMeta:
 
 ---
 layout: image-left
-image: https://makepedals01.netlify.app/images/my_1st.webp
+image: https://makepedals01.vercel.app/images/my_1st.webp
 hideInToc: true
 ---
 

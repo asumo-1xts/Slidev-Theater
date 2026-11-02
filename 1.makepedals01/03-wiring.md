@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: https://makepedals01.netlify.app/images/my_hardoff.webp
+image: https://makepedals01.vercel.app/images/my_hardoff.webp
 hideInToc: true
 ---
 
@@ -12,7 +12,7 @@ hideInToc: true
 
 ---
 layout: image-right
-image: https://makepedals01.netlify.app/images/wiring.webp
+image: https://makepedals01.vercel.app/images/wiring.webp
 ---
 
 # 組み付けの概要
@@ -38,7 +38,7 @@ image: https://makepedals01.netlify.app/images/wiring.webp
 
 ---
 layout: image-right
-image: https://makepedals01.netlify.app/images/inside_new.webp
+image: https://makepedals01.vercel.app/images/inside_new.webp
 ---
 
 # ハイセンス配線のコツ
